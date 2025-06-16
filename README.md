@@ -125,7 +125,7 @@
 
   <section id="pre-colonial">
     <h2 id="preTitulo">Angola Pré-Colonial</h2>
-    <img class="ilustracao" src="I1.JPG">
+    <img class="ilustracao" src="I1.jpg">
     <p id="preTexto">Antes da chegada dos colonizadores, Angola era formada por reinos bem organizados, como o Reino do Kongo, Ndongo e Lunda. Esses reinos possuíam sistemas políticos próprios, comércio interno e externo, e uma cultura rica baseada em tradições orais, agricultura e mineração.</p>
   </section>
 
