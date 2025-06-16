@@ -131,7 +131,7 @@
 
   <section id="colonial">
     <h2 id="colTitulo">Período Colonial</h2>
-    <img class="ilustracao" src="I2.PNG">
+    <img class="ilustracao" src="I2.png">
     <p id="colTexto">Durante a colonização portuguesa, os recursos naturais e os povos de Angola foram explorados. Surgiram diversas formas de resistência, como a luta da Rainha Nzinga, que é símbolo de coragem, diplomacia e defesa da soberania do seu povo frente à opressão europeia.</p>
     <a href="https://pt.wikipedia.org/wiki/Nzinga_de_Mbandi" target="_blank" class="curiosidade-link" id="linkNzinga">Saiba mais sobre a Rainha Nzinga</a>
   </section>
@@ -144,7 +144,7 @@
 
   <section id="pos-independencia">
     <h2 id="posTitulo">Angola Pós-Independência</h2>
-    <img class="ilustracao" src="I4.WEBP">
+    <img class="ilustracao" src="I4.webp">
     <p id="posTexto">Depois da independência, o país enfrentou uma longa guerra civil. Nos últimos anos, Angola tem investido no desenvolvimento de infraestruturas, educação e saúde. A reconstrução nacional é um esforço contínuo que reflete a força e a resiliência do povo angolano.</p>
 
     <label for="curiosidade" id="curLabel">Escolha uma curiosidade:</label>
