@@ -146,6 +146,16 @@
     <img class="ilustracao" src="i4.jpeg">
     <p id="pos-independencia-text">Após o fim da guerra civil em 2002, Angola iniciou um processo de reconstrução nacional. Investimentos em infraestrutura, educação e saúde foram intensificados, embora desafios sociais e económicos ainda persistam.</p>
   </section>
+   <br><br>
+    <label for="curiosidade" id="curLabel">Escolha uma curiosidade:</label>
+    <select id="curiosidade" onchange="verCuriosidade(this.value)">
+      <option value="">-- Selecione --</option>
+      <option value="https://pt.wikipedia.org/wiki/Economia_de_Angola" id="opt1">Economia de Angola</option>
+      <option value="https://pt.wikipedia.org/wiki/Cultura_de_Angola" id="opt2">Cultura de Angola</option>
+      <option value="https://pt.wikipedia.org/wiki/Diamantes_de_sangue" id="opt3">Diamantes em Angola</option>
+    </select>
+  </section>
+
 
   <footer>
     &copy; 2025 História de Angola. Todos os direitos reservados.<br>
