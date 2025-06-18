@@ -145,8 +145,7 @@
     <h2>Pós-Independência</h2>
     <img class="ilustracao" src="i4.jpeg">
     <p id="pos-independencia-text">Após o fim da guerra civil em 2002, Angola iniciou um processo de reconstrução nacional. Investimentos em infraestrutura, educação e saúde foram intensificados, embora desafios sociais e económicos ainda persistam.</p>
-  </section>
-   <br><br>
+  <section>
     <label for="curiosidade" id="curLabel">Escolha uma curiosidade:</label>
     <select id="curiosidade" onchange="verCuriosidade(this.value)">
       <option value="">-- Selecione --</option>
