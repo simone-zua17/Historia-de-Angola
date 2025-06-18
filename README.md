@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Site educativo sobre a história de Angola com informações sobre os períodos pré-colonial, colonial, independência e pós-independência.">
-  <title>História de Angola</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
